@@ -4,6 +4,6 @@ P0001,S0001,completed,,,pass|297915765|2026-09-29T12:55:45.379Z
 P0002,,completed,297915765,2026-09-29T13:02:21.534Z,
 P0002,S0001,completed,,,pass|297915765|2026-09-29T13:13:34.200Z
 T0001,,validation_required,297915765,2026-09-29T13:17:19.267Z,
-T0001,S0001,validation_required,,,
+T0001,S0001,validation_required,,,pass
 T0002,,encoding_required,,,
 T0002,S0001,pending,,,
